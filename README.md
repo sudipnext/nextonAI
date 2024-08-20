@@ -17,7 +17,7 @@ The purpose of this repository is to document and showcase the practical work do
 | Lab 1      | Introduction to Python | ✅ Completed |
 | Lab 2      | Suduko Solver, CryptArithmetic Problem | ✅ Completed |
 | Lab 3      | XOR Gate Implementation Using ANN | ✅ Completed |
-| Lab 4      | ???       | ❌ Not Started |
+| Lab 4      | Hebian, Perceptron, Adaline       | ✅ for Completed |
 
 ## Labs
 
